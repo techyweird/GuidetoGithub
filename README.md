@@ -1,3 +1,3 @@
-# **Guide to Github by FOSS Cell TKMCE**
+# Guide to Github by FOSS Cell TKMCE
 
-para
+ara
