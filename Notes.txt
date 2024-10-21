@@ -1,1 +1,0 @@
-commit has hash ID, changes, 
